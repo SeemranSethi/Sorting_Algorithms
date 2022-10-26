@@ -18,3 +18,6 @@ Heap sort is a comparison-based sorting technique based on Binary Heap data stru
 The idea of Radix Sort is to do digit by digit sort starting from least significant digit to most significant digit. Radix sort uses counting sort as a subroutine to sort. Counting sort is a linear time sorting algorithm that sort in O(n+k) time when elements are in the range from 1 to k.
 ### *8.Bucket Sort:*
 Bucket sort is mainly useful when input is uniformly distributed over a range.
+
+## **Language(s) used for these Algorithms:**
+<img title="C++" height="40px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png" /> &nbsp;&nbsp;&nbsp;
