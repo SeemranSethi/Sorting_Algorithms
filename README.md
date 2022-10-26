@@ -1,2 +1,5 @@
 # Sorting_Algortihms
-Here are some of the commonly used Sorting Algorithms.
+Sorting is the most basic necessity of Data Structure and Algorithms.
+
+##*Most Commonly Used Sorting Algorithms*
+###1.
